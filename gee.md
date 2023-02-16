@@ -4,7 +4,7 @@
  Sign up for a new Non-Commercial Google Earth Engine account with your new SIG email address (@sig-gis.com).
  
 ## Ensure you've been added to all of SIG's GCP permission groups
-* Ask Kyle Woodward or Dawn Nekorchuck on Mattermost to add you to your needed cloud role groups in Google Cloud Platform.
+* Ask Kyle Woodward or Dawn Nekorchuck on Mattermost to add you to cloud roles in Google Cloud Platform.
 
 ## Setup GEE Python API
 Earth Engine requires you to authenticate your account credentials to access the Earth Engine Python API. We do this with the `gcloud` python utility
