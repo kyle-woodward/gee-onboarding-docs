@@ -3,9 +3,6 @@
 ## Create a SIG Google Earth Engine Account
  Sign up for a new Google Earth Engine account with your new SIG email address (@sig-gis.com)
 
-## Upgrade account to alpha 
-(do we still need to do this?)
-
 ## Ensure you've been added to all of SIG's GCP permission groups
 * Ask Kyle or Dawn on Mattermost to add you to your needed cloud role groups in GCP
 
