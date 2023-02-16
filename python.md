@@ -37,6 +37,9 @@ conda install -c conda-forge earthengine-api
 ### 3. Select Python Interpreter
 * Open the Command Palette under View (Ctrl + Shift + P)
 * Type Python Interpreter, and if your Anaconda is configured properly, VS Code will auto-populate the python versions that you have installed. Select one.
+
+![image](https://user-images.githubusercontent.com/51868526/219459836-b21f12ce-2801-428e-bd0c-716af01df11b.png)
+
 * Alternatively Open a Terminal Window (Ctrl + ~), and activate a conda environment (`conda activate gee`)
 
-*Tip*: You can create Jupyter notebook cells inside a python script just by typing `#%%`
+*Hot Tip*: You can create Jupyter notebook cells inside a python script just by typing `#%%`
