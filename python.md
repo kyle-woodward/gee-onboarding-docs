@@ -22,15 +22,21 @@ conda activate gee
 ```
 * In your shell, run this code block:
 ```
-conda install -c conda-forge earthengine-api scikit-learn pandas
+conda install -c conda-forge earthengine-api
 ```
 * Wait for package solver to finish and type y to proceed with installation.
 
 ## Visual Studio Code
-### 1. Install VS code with the installer for your machine's operating system (Windows, MacOS, Linux)
-* stuff
-* stuff
+### 1. Install VS code with the [installer](https://code.visualstudio.com/download) for your machine's operating system (Windows, MacOS, Linux) following all recommended settings.
 ### 2. Setup VS Code
-* get helpful extensions
-* generally get familiar
-* 
+* Open VS Code and on the left-hand side, find Source Control. Note that this is pre-configured to already use Git if it is installed on your machine already.
+* Go to the Extensions tab, install a few helpful ones for python
+
+![image](https://user-images.githubusercontent.com/51868526/219458891-611a4799-0908-46d9-933c-1e5e66563ad4.png)
+
+### 3. Select Python Interpreter
+* Open the Command Palette under View (Ctrl + Shift + P)
+* Type Python Interpreter, and if your Anaconda is configured properly, VS Code will auto-populate the python versions that you have installed. Select one.
+* Alternatively Open a Terminal Window (Ctrl + ~), and activate a conda environment (`conda activate gee`)
+
+*Tip*: You can create Jupyter notebook cells inside a python script just by typing `#%%`
