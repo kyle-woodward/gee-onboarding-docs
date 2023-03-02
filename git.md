@@ -7,14 +7,15 @@ git --version
 
 ![image](https://user-images.githubusercontent.com/51868526/222541398-4cc176bd-7c0c-4405-aca5-899ca968d809.png)
 
-### 3. Clone the EM-onboarding-docs repository to a local folder 
+### 3. Clone the `EM-onboarding-docs` repository to a local folder. If you `ls` (list; Linux) or `dir` (directory; Windows) your current directory it should be in there.
 
 ```
-git clone https://github.com/kyle-woodward/kaza-lc.git
+git clone https://github.com/sig-gis/EM-onboarding-docs.git
 ```
 
-![kaza_redme_gitClone](https://user-images.githubusercontent.com/51868526/184143024-31f4e6e0-0963-44bb-a72d-5b2778de5446.JPG)
+![image](https://user-images.githubusercontent.com/51868526/222542598-66ebe9f1-a870-40da-b2db-3ae1458683b3.png)
 
-### 4. `cd` into your new kaza-lc folder and `ls`(linux/MacOS) or `dir`(Windows) to see its contents
+### 4. `cd` into your new `EM-onboarding-docs` folder and `ls`(linux/MacOS) or `dir`(Windows) to see its contents
 
-![kaza_readme_cdToKazalc](https://user-images.githubusercontent.com/51868526/184143297-bbcd50ee-20eb-4466-b438-2855b01e6585.JPG)
+![image](https://user-images.githubusercontent.com/51868526/222542723-f7e9d1e4-87ad-4253-b8b5-ce7f97965b37.png)
+
