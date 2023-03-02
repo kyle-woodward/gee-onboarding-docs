@@ -1,11 +1,5 @@
 # Google Earth Engine Setup
-
-## Create a SIG Google Earth Engine Account
- Sign up for a new Non-Commercial Google Earth Engine account with your new SIG email address (@sig-gis.com).
  
-## Ensure you've been added to all of SIG's GCP permission groups
-* Ask Kyle Woodward or Dawn Nekorchuck on Mattermost to add you to cloud roles in Google Cloud Platform.
-
 ## Setup GEE Python API
 Earth Engine requires you to authenticate your account credentials to access the Earth Engine Python API. We do this with the `gcloud` python utility
 1. [Download the installer](https://cloud.google.com/sdk/docs/install) for the `glcoud` command-line python utility from Google
@@ -36,6 +30,12 @@ earthengine authenticate
 
 ## Testing Your Setup
 Test that earthengine is setup and authenticated by checking the folder contents within the `sig-ee-cloud` cloud project. 
+
+* First, set the cloud project in the `earthengine` CLI:
+```
+earthengine set_project sig-ee-cloud
+```
+
 * In your shell, run:
 ```
 earthengine ls projects/sig-ee-cloud/assets
