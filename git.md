@@ -5,9 +5,9 @@
 git --version
 ```
 
-![kaza_gitVersion](https://user-images.githubusercontent.com/51868526/184142833-ae1dac16-6196-4aaf-a130-28e0e6707825.JPG)
+![image](https://user-images.githubusercontent.com/51868526/222541398-4cc176bd-7c0c-4405-aca5-899ca968d809.png)
 
-### 3. Clone the kaza repository to a local folder 
+### 3. Clone the EM-onboarding-docs repository to a local folder 
 
 ```
 git clone https://github.com/kyle-woodward/kaza-lc.git
