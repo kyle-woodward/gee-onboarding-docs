@@ -24,7 +24,7 @@ Earth Engine requires you to authenticate your account credentials to access the
 ```
 earthengine authenticate
 ```
-11. In the browser window that opens, select the Google account that is tied to your EE account, select the `sig-ee-cloud` cloud project, then click Generate Token at the bottom of the page.
+11. In the browser window that opens, select the SIG Google account, select the `sig-ee-cloud` cloud project, then click Generate Token at the bottom of the page.
 12. On the next page, select your Google account again, then click Allow on the next page.
 13. Copy the authorization token it generates to your clipboard and back in your shell, paste it and hit Enter. 
 
