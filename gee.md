@@ -11,7 +11,7 @@ Earth Engine requires you to authenticate your account credentials to access the
 
 ![kaza_readme_gcloudInstaller_initializing](https://user-images.githubusercontent.com/51868526/184163126-7505745b-f7c3-4745-bb36-3948d1b9ff76.JPG)
 
-7. Choose your Google account that is linked to your Earth Engine account, then click Allow on the next page.
+7. Choose your SIG Google account, then click Allow on the next page.
 
 ![kaza_readme_gcloudInstaller_InitializingSignIn](https://user-images.githubusercontent.com/51868526/184163514-4604ac83-cdad-4dd8-bc67-c37224d6aafc.JPG)
 
