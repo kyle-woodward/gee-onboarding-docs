@@ -42,3 +42,6 @@ earthengine ls projects/sig-ee-cloud/assets
 ```
 
 If you do not get an error and it returns a list of folders and assets similar to this then you are good to go! :tada:
+
+![image](https://user-images.githubusercontent.com/51868526/224086811-3efa95c7-6f59-41aa-b458-dfa3e64cc648.png)
+
